@@ -8,14 +8,16 @@
 - Özel 404 sayfası ve `robots.txt` hazırdır.
 - Mobil menü ve fotoğraf galerisi JavaScript gerektirir.
 
-## Alan adı kesinleşince
+## Alan adı
 
-1. `index.html` içine kesin alan adıyla canonical bağlantısı eklenir.
-2. Open Graph adresi ve paylaşım görseli tanımlanır.
-3. Kesin alan adıyla `sitemap.xml` oluşturulur.
-4. Cloudflare Pages projesine `web/` klasörü yayınlanır.
-5. Alan adı Pages projesine bağlanır; `www` yönlendirmesi ayarlanır.
-6. HTTPS, mobil görünüm, Instagram, telefon ve 404 sayfası canlıda kontrol edilir.
+- Kesin alan adı: `https://esenyurtaslanordu.com/`
+- Canonical, Open Graph, robots ve sitemap kayıtları tamamlandı.
+
+## Yayına alma
+
+1. Cloudflare Pages projesine `web/` klasörü yayınlanır.
+2. Alan adı Pages projesine bağlanır; `www` yönlendirmesi ayarlanır.
+3. HTTPS, mobil görünüm, Instagram, telefon ve 404 sayfası canlıda kontrol edilir.
 
 ## Yayından önce içerik onayı
 
